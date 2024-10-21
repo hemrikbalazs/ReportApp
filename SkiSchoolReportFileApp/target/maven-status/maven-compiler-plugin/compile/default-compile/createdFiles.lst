@@ -1,0 +1,10 @@
+utils\Converter.class
+utils\Constants.class
+com\cc_internship\skischoolreportfileapp\SkiSchoolReportFileApp.class
+entities\InstructorsLesson.class
+persistence\InstructorsLessonHandler.class
+exceptions\PersistenceException.class
+logic\TenYearInstructorStatisticGenerator.class
+logic\YearlyInstructorStatistic.class
+persistence\SqlConnection.class
+com\cc_internship\skischoolreportfileapp\StatisticsWriter.class
